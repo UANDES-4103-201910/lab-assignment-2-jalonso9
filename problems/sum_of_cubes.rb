@@ -11,4 +11,3 @@ def sum_of_cubes(a, b)
   return sum
 end
 
-puts sum_of_cubes(4,8)
